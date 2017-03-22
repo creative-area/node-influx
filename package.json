@@ -1,7 +1,7 @@
 {
-  "name": "influx",
+  "name": "influx-4",
   "version": "4.2.3",
-  "description": "InfluxDB Client",
+  "description": "InfluxDB Client (version 4)",
   "main": "index.js",
   "scripts": {
     "lint": "standard",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-influx/node-influx.git"
+    "url": "git://github.com/creative-area/node-influx.git"
   },
   "keywords": [
     "influx",
